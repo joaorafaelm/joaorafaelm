@@ -8,4 +8,4 @@
 
 
 [![Readme Card](https://stats-eosin.vercel.app/api/pin/?username=joaorafaelm&repo=freqtrade-heroku&theme=dracula&hide_border=true)](https://github.com/joaorafaelm/freqtrade-heroku)
-[![Readme Card](https://stats-eosin.vercel.app/api/pin/?username=joaorafaelm&repo=.dotfiles&theme=dracula&hide_border=true)](https://github.com/joaorafaelm/.dotfiles)
+[![Readme Card](https://stats-eosin.vercel.app/api/pin/?username=joaorafaelm&repo=dotfiles&theme=dracula&hide_border=true)](https://github.com/joaorafaelm/dotfiles)
